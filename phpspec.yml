@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: SportUrls
+        psr4_prefix: SportUrls
+        src_path: app
